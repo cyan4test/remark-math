@@ -1,3 +1,5 @@
+remark-math: use micromark-extension-math-nam
+
 # remark-math
 
 [![Build][build-badge]][build]
